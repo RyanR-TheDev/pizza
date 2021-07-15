@@ -1,4 +1,4 @@
-# pizza
+# Pizza
 
 A website describing my favorite pizza.
 
